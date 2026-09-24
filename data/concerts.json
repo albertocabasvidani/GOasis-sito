@@ -28,5 +28,15 @@
     "city": "",
     "notes": "",
     "acoustic": false
+  },
+  {
+    "day": "20",
+    "month": "03",
+    "year": 2027,
+    "venue": "Bisboccia 2.0",
+    "location": "Turriaco",
+    "city": "",
+    "notes": "",
+    "acoustic": false
   }
 ]
