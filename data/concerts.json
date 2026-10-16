@@ -48,5 +48,15 @@
     "city": "",
     "notes": "",
     "acoustic": false
+  },
+  {
+    "day": "02",
+    "month": "04",
+    "year": 2027,
+    "venue": "Taboga 13",
+    "location": "Gemona",
+    "city": "",
+    "notes": "",
+    "acoustic": false
   }
 ]
