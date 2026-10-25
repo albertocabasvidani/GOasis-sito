@@ -1,5 +1,21 @@
 [
   {
+    "id": "33dcb515-bb6a-803f-9691-f58394a8a9c2",
+    "venue": "Klub27",
+    "location": "Gorizia",
+    "city": "",
+    "date": "23 ottobre 2026",
+    "time": "21:00",
+    "coordinates": {
+      "lat": 45.9441278,
+      "lng": 13.6252288,
+      "display_name": "Gorizia, Friuli-Venezia Giulia, 34170, Italia",
+      "type": "administrative",
+      "confidence": "multiple_results"
+    },
+    "popupText": "<strong>Klub27</strong><br>Gorizia<br>23 ottobre 2026"
+  },
+  {
     "id": "3a4cb515-bb6a-816e-8741-c812ae562baf",
     "venue": "L'Aratro Birreria",
     "location": "Aiello del Friuli",
