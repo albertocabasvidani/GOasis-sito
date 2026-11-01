@@ -1,5 +1,21 @@
 [
   {
+    "id": "3e7cb515-bb6a-815b-8c00-ebaaf9be27db",
+    "venue": "Old London Pub",
+    "location": "Trieste",
+    "city": "",
+    "date": "30 ottobre 2026",
+    "time": "21:00",
+    "coordinates": {
+      "lat": 45.6439771,
+      "lng": 13.7790171,
+      "display_name": "Birreria Old London Pub, 17b, Via Giuseppe Caprin, Montuzza, San Giacomo / Sveti Jakob, Barriera Vecchia-San Giacomo, Trieste, Friuli-Venezia Giulia, 34137, Italia",
+      "type": "pub",
+      "confidence": "single_result"
+    },
+    "popupText": "<strong>Old London Pub</strong><br>Trieste<br>30 ottobre 2026"
+  },
+  {
     "id": "33dcb515-bb6a-803f-9691-f58394a8a9c2",
     "venue": "Klub27",
     "location": "Gorizia",
