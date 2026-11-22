@@ -1,5 +1,21 @@
 [
   {
+    "id": "336cb515-bb6a-8036-a741-f5d22e95fe62",
+    "venue": "Il Mastro Birraio",
+    "location": "San Giovanni al Natisone",
+    "city": "",
+    "date": "20 novembre 2026",
+    "time": "21:00",
+    "coordinates": {
+      "lat": 45.9779201,
+      "lng": 13.4010809,
+      "display_name": "San Giovanni al Natisone, Udine, Friuli-Venezia Giulia, 33048, Italia",
+      "type": "administrative",
+      "confidence": "single_result"
+    },
+    "popupText": "<strong>Il Mastro Birraio</strong><br>San Giovanni al Natisone<br>20 novembre 2026"
+  },
+  {
     "id": "3e7cb515-bb6a-815b-8c00-ebaaf9be27db",
     "venue": "Old London Pub",
     "location": "Trieste",
