@@ -10,16 +10,6 @@
     "acoustic": false
   },
   {
-    "day": "14",
-    "month": "02",
-    "year": 2027,
-    "venue": "Novecento",
-    "location": "Gradisca d'Isonzo",
-    "city": "",
-    "notes": "",
-    "acoustic": false
-  },
-  {
     "day": "20",
     "month": "03",
     "year": 2027,
@@ -35,6 +25,16 @@
     "year": 2027,
     "venue": "Taboga 13",
     "location": "Gemona",
+    "city": "",
+    "notes": "",
+    "acoustic": false
+  },
+  {
+    "day": "10",
+    "month": "07",
+    "year": 2027,
+    "venue": "Drag Riders Contest",
+    "location": "",
     "city": "",
     "notes": "",
     "acoustic": false
